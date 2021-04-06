@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "533839305072",
+    "firebase_url": "https://loja-virtual-a23f7.firebaseio.com",
+    "project_id": "loja-virtual-a23f7",
+    "storage_bucket": "loja-virtual-a23f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533839305072:android:7c03a68ba439931e63d7b5",
+        "android_client_info": {
+          "package_name": "tobolsky.com.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533839305072-funbjopk1o916naaum7l1p3df3pr6qcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzJ6E3mVyyzmquDyho9DkQZsGomiymgT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533839305072-funbjopk1o916naaum7l1p3df3pr6qcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
